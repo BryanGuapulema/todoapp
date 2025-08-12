@@ -26,7 +26,6 @@ function renderAllTasks(){
     updateCounters();
 }
     
-    
 function renderTask(task){
     const li = document.createElement("li");
 
